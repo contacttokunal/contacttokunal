@@ -1,8 +1,6 @@
 ## Hi 👋 I'm Kunal Kumar
 
 <h3 align="center">A Frontend developer from India</h3>
-<!--
-**contacttokunal/contacttokunal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on **a live project as a React developer at Chetu.**
 
