@@ -2,7 +2,7 @@
 
 <h3 align="center">A Frontend developer from India</h3>
 
-- 🔭 I’m currently working on **a live project as a React developer at Chetu.**
+- 🔭 I’m currently working on **a live project as a React developer at Sutherland.**
 
 - 📫 How to reach me **contacttokunal@gmail.com**
 
